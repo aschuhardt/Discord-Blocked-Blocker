@@ -1,0 +1,12 @@
+{
+  "name": "Discord Blocked Blocker",
+  "version": "1.0",
+  "description": "Hides the \"Blocked\" messages that appear in Discord's IM interface when a user whom you have blocked sends a message.",
+  "manifest_version": 2,
+  "content_scripts": [
+    {
+      "matches": ["https://discordapp.com/*"],
+      "js": ["discordBlockedBlocker.js"]
+    }
+  ]
+}
