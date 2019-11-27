@@ -1,0 +1,4 @@
+div[class^="messageGroupBlocked-"],
+div[class*=" messageGroupBlocked-"] {
+            display: none !important;
+}
