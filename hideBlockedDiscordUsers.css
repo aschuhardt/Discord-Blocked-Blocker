@@ -1,4 +1,4 @@
-div[class^="messageGroupBlocked-"],
-div[class*=" messageGroupBlocked-"] {
+div[class^="blockedSystemMessage-"],
+div[class*="blockedSystemMessage-"] {
             display: none !important;
 }
