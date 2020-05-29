@@ -8,8 +8,5 @@
       "matches": ["https://discord.com/*"],
       "css": ["hideBlockedDiscordUsers.css"]
     }
-  ],
-  "permissions": [
-
   ]
 }

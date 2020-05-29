@@ -1,4 +1,4 @@
-div[class^="blockedSystemMessage-"],
-div[class*="blockedSystemMessage-"] {
-            display: none !important;
+div[class^="groupStart-"]:not([id]),
+div[class*="groupStart-"]:not([id]) {
+  display: none !important;
 }
