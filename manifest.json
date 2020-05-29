@@ -5,8 +5,11 @@
   "manifest_version": 2,
   "content_scripts": [
     {
-      "matches": ["https://discordapp.com/*"],
+      "matches": ["https://discord.com/*"],
       "css": ["hideBlockedDiscordUsers.css"]
     }
+  ],
+  "permissions": [
+
   ]
 }
