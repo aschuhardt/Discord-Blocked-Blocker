@@ -1,4 +1,4 @@
-Notice: I've taken this off of the Chrome web store and do not plan on continuing to maintain this.  Please uninstall it if you have not already.
+**Notice**: I've taken this off of the Chrome web store and do not plan on continuing to maintain this.  Please uninstall it if you have not already.
 
 # Discord-Blocked-Blocker
 
